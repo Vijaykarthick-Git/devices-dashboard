@@ -1,7 +1,10 @@
 
 # COMMANDS FOR JSON SERVER
+
 To Install JSON SERVER - npm install json-server   /  npm install -g json-server (Global intstallation)
+
 To run JSON-SERVER - json-server --watch db.json --port 3000  
+
 Steps: 
     1.  install JSON server
     2.  run that command to start JSON-server
